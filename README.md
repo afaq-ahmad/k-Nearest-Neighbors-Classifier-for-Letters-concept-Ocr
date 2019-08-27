@@ -27,5 +27,5 @@ The training is sufficient as in Knn training will be not depends on gradient de
 >In testing and training folder Images of characters automatically saved those are detected.
 
 
-#### Denote:
+#### Support:
 Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
